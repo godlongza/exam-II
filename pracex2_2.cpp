@@ -27,7 +27,7 @@ int main(){
         cout << line[20] << "\n";
 	}
     	atof(line[20].c_str());
-        sort(line,20);
+        
         for(int i = 0; i < 20; i++)
         {
             
